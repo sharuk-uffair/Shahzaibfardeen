@@ -1,7 +1,6 @@
 <!-- First Main Heading -->
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shahzaib Fardeen <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 
-
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Full+Stack+Web+%26+App+Developer.;EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Syberstar.;Founder+%26+CEO+of+ELDO.;Linux+Administrator."></a>
@@ -11,7 +10,6 @@
 <p align="center" width="70px">
   <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+and+CEO+at+ELDO;Web+Developer+@+Syberstar;Developer+@+IQVIA"></a>
 </p>-->
-
 
 <!-- Brief Text About Myself -->
 <h4 align="center"> Medi Data - Rave Developer @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
@@ -23,23 +21,21 @@
 <br />
 <br />
 
-
 <!-- My Portfolio Bars -->
+
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://shahzaibfardeen.github.io/My_Site_Portfolio/)
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
 
-
 <!-- Center Social Icons Follow Tabs
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a>
+  <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a>
   <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p> -->
-
 
 <!-- Github Streaks Stats -->
 <p align="center">
@@ -48,35 +44,33 @@
   </a>
 </p>
 
-
-<!-- My Skyline Ratio 
+<!-- My Skyline Ratio
 <div align="center"><table>
   <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
 </table></div> -->
 
-
-<!-- Github Streaks Stats - Black & Orange Combo 
+<!-- Github Streaks Stats - Black & Orange Combo
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br> -->
 
-
 <!-- Main Content Of The Page -->
+
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
+**Here Are Some Of The Ideas To Get You Started :**
 
-**Here Are Some Of The Ideas To Get You Started :** 
 - 🔭 I’m Currently Working On - [100 Days Of Code.](https://github.com/Shahzaibfardeen/100_Days_Of_Code) <br>
 - 🌱 I’m Currently Learning `Python & Linux.` <br>
 - 💻 ELDO : [EnLift_Development_Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
-- 👨‍💻 My Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
-- 📱 My Profile Card : [Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) 
+- 👨‍💻 My Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/)
+- 📱 My Profile Card : [Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/)
 - 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Team. <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
 - 📄 Know about My Projects : [My_Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md)
 - 📧 How To Contact Me : [Contact_Form](https://shahzaibfardeen.github.io/Contact_Form/) <br>
 - 📫 How To Reach Me : **S4shahzaib73@gmail.com** <br>
-<br>
+  <br>
 
 <!-- ## 📘 Ours Top Open Source Projects
 <table align="center">
@@ -87,7 +81,7 @@
       <td><b> 🤝 Forks </b></td>
     </tr>
   </thead>
-  <tbody>    
+  <tbody>
     <tr>
       <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
@@ -101,7 +95,6 @@
   </tbody>
 </table> -->
 
-
 <!-- Find Me On The Web -->
 <p align="center">
   <b><i>Let's Connect !! Find Me On The Web.</i></b>
@@ -109,21 +102,23 @@
 </p>
 
 <!-- Social Sites & Connecting -->
-### Connect With Me On - 
+
+### Connect With Me On -
+
 <!--
-[<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:s4shahzaib73@gmail.com) 
-[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/shahzaib-fardeen/) 
-[<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />]() 
-[<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />]() 
+[<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:s4shahzaib73@gmail.com)
+[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/shahzaib-fardeen/)
+[<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />]()
+[<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />]()
 [<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />]()
 [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />]()
 [<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />]()
 
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/shahzaib_fardeen/)
-[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/ShahzaibFardeen) 
+[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/ShahzaibFardeen)
 [<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />]()
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />]()
-[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />]() 
+[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />]()
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />]()
 -->
 <br/>
@@ -163,7 +158,9 @@
 <br/>
 
 <!-- Old Languages Tools Bar Big Size -->
+
 ### 👨‍💻 Languages And Tools :
+
 <br/>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -187,15 +184,15 @@
 <br />
 <br />
 
-
 <!-- Details / Blog / Recent Table-->
 <br>
 
-Currently Working On [Sybrenium](https://github.com/Syber-Lab) &  [Syber-Lab](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
+Currently Working On [Sybrenium](https://github.com/Syber-Lab) & [Syber-Lab](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
+
 <table><tr><td valign="top" width="33%">
 
-
 ### Recent Releases Framework
+
 <!-- recent_releases starts -->
 
 [For Online CDN - Click This](https://github.com/Syber-Lab/Sybrenium)
@@ -217,26 +214,23 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 <!-- Recent Releases Ends -->
 </td><td valign="top" width="33%">
 
-
 ### On My Blog
-<!-- Blog Starts -->
 
+<!-- Blog Starts -->
 
 [Robert Wade](https://medium.com/@robewawebdesign/how-100-days-of-code-changed-my-life-37cdc891db73) - 25-08-2018
 
 [My_Deen_Dairy](https://github.com/Shahzaibfardeen/My_Deen_Dairy) - 04-05-2021
-	
 [The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 23-09-2021
-	
 [100_Days_Of_Code](https://github.com/Shahzaibfardeen/100_Days_Of_Code) - 10-11-2021
-
 
 <!-- Blog Ends -->
 </td><td valign="top" width="33%">
 
 ### Recent Projects
+
 <!-- Starts -->
-	
+
 [The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 14-12-2021
 
 [Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) - 14-12-2021
@@ -262,7 +256,6 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 </td></tr></table>
 <!--End Part Of The Table -->
 
-
 <!-- New Table With Multiple Slides -->
 <!--## My Repositories at Glance
 <table>
@@ -271,13 +264,13 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
     <th>Computer Vision</th>
   </tr>
   <tr>
-    <td> 
+    <td>
       <ul>
         <li><a target="_blank" href = "https://github.com/venugopalkadamba/AgriAI_WebApp"><i>AgriAI WebApp</i></a></li>
-        <li><a target="_blank" href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor"><i>Multi Disease Predictor</i></a></li> 
+        <li><a target="_blank" href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor"><i>Multi Disease Predictor</i></a></li>
         <li><a target="_blank" href = "https://github.com/venugopalkadamba/Image-Blur-Detection"><i>Image Blur Detection using Machine Learning</i></a></li>
         <li><a target="_blank" href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App"><i>Diabetes Predictor</i></a></li>
-      </ul> 
+      </ul>
     </td>
     <td>
       <ul>
@@ -313,17 +306,18 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <div align="center">-->
 <!-- End Of The Table -->
 
-
 <!-- Updated Github Stats -->
+
 ## 📊 Github Statistics
-<br/>	
+
+<br/>
 
 <!--&theme=buefy&bg_color=0D1117"/></a> -->
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact&theme=react&hide_border=false" /></a>
-<br /> 
+<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Shahzaib's Github Stats" /></a>
-
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
@@ -331,9 +325,9 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 <!--START_SECTION:activity-->
 
-1. ❗️  Opened Issue [#001](https://github.com/Syber-Lab/Sybrenium/issues?q=label%3A%22good+first+issue%22+is%3Aissue+is%3Aopen) in [Syber-Lab/Sybrenium](https://github.com/Syber-Lab)
+1. ❗️ Opened Issue [#001](https://github.com/Syber-Lab/Sybrenium/issues?q=label%3A%22good+first+issue%22+is%3Aissue+is%3Aopen) in [Syber-Lab/Sybrenium](https://github.com/Syber-Lab)
 2. 🎉 Merged PR [#97]
-3. ❗️  Closed issue [#000](https://github.com/Syber-Lab/syberstar-minified) in [Syberstar Minified](https://github.com/Syber-Lab/syberstar-minified)
+3. ❗️ Closed issue [#000](https://github.com/Syber-Lab/syberstar-minified) in [Syberstar Minified](https://github.com/Syber-Lab/syberstar-minified)
 4. 💪 Opened PR [#97]
 5. 🗣 Commented on [#96]
 
@@ -348,15 +342,14 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <!-- Additionals Techs
 ### Flexible With -
 [<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](#)
-[<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](#) 
+[<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](#)
 [<img src="https://img.shields.io/badge/-Macintosh-000000?style=social&logo=apple" />](#)
-[<img src="https://img.shields.io/badge/-Debian-000000?style=social&logo=debian" />](#) 
+[<img src="https://img.shields.io/badge/-Debian-000000?style=social&logo=debian" />](#)
 [<img src="https://img.shields.io/badge/-Ubuntu-000000?style=social&logo=ubuntu" />](#)
 [<img src="https://img.shields.io/badge/-Fedora-000000?style=social&logo=fedora" />](#)
 [<img src="https://img.shields.io/badge/-Cent_Os-000000?style=social&logo=centos" />](#)
 [<img src="https://img.shields.io/badge/-Android-000000?style=social&logo=android" />](#)
 [<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#) -->
-
 
 <!-- Framework & Stacks Bar
 ### Frameworks & Stack -
@@ -392,7 +385,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript) -->
 
-<!-- Tools & Techs 
+<!-- Tools & Techs
 ### Tools -
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
@@ -406,7 +399,6 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud) -->
-
 
 <!-- ##GitHub Profile Trophy
 <p align="center">
